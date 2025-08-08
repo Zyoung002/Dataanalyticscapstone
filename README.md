@@ -1,4 +1,6 @@
-###Project Focus
+#Trends in gaming
+
+Project Focus
 To investigate trends amongst gamers of varying ages and see how they spend their time and money.
 ## Project Requirements
 ___
@@ -44,6 +46,7 @@ Note for VS Code Users:
 If you're using VS Code to run the Jupyter Notebook or Python script, ensure that the virtual environment(venv) is selected as the kernel. This is necessary for the modules installed from requirements.txt to be active when running the project.
 
 To select the kernel, open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on Mac) and search for "Python: Select Interpreter". Choose the one for the virtual environment (venv).
+
 
 
 
