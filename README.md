@@ -22,8 +22,10 @@ We used a few sources from a Gaming survey conducted amongst both men and women 
 
 Once activated you should be able to run the program in the Gaming_Trends.ipynb.
 
-You will find that amonst the different age groups survey participants aging between 15-25 seem to have the most amount of free time to play games. This is likely due to multiple factors regarding career and family life as you age a bit. 
+Note for VS Code Users:
 
+If you're using VS Code to run the Jupyter Notebook or Python script, ensure that the virtual environment(venv) is selected as the kernel. This is necessary for the modules installed from requirements.txt to be active when running the project.
 
-Amongst all the different types of games out there we found that Simulation games
+To select the kernel, open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on Mac) and search for "Python: Select Interpreter". Choose the one for the virtual environment (venv).
+
 
