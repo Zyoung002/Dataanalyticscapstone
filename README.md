@@ -1,8 +1,25 @@
-﻿WElcome to the Trends in Gaming project!!!
-
-This project aims to show you a few trends regarding how people of varying ages play video games and what types of games are most popular!
-
-We used a few sources from a Gaming survey conducted amongst both men and women of varying ages, as well as a game sales database going all the way back to 1978! 
+###Project Focus
+To investigate trends amongst gamers of varying ages and see how they spend their time and money.
+## Project Requirements
+___
+1.Use a virtual environment for your project.
+2.Include a requirements.txt file in your repository.
+3. Read your data using one of the following methods:
+From a local file
+Using a public API
+Through web scraping
+4.Perform thorough data cleaning, including:
+Handling null or missing values
+Normalizing data where applicable
+Renaming columns for clarity
+Verifying that column data types accurately represent the data
+5. Utilize 3 matplotlib visualizations.
+6. Use a virtual environment.
+7. Jupyter notebook is clearly anotated.
+8.Store your cleaned data in a SQLite database.
+Create at least two tables
+9.Define a primary key for each table to allow joins
+Perform a SQL join between your tables to retrieve only the data needed for your visualizations
 
 ### Virtual Environment Instructions
 1. After you have cloned the repo to your machine, navigate to the project folder in GitBash/Terminal.
@@ -27,5 +44,6 @@ Note for VS Code Users:
 If you're using VS Code to run the Jupyter Notebook or Python script, ensure that the virtual environment(venv) is selected as the kernel. This is necessary for the modules installed from requirements.txt to be active when running the project.
 
 To select the kernel, open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on Mac) and search for "Python: Select Interpreter". Choose the one for the virtual environment (venv).
+
 
 
