@@ -15,8 +15,8 @@ We used a few sources from a Gaming survey conducted amongst both men and women 
 
 | Command | Linux/Mac | Git Bash |
 | ----------- | ----------- | ----------- |
-| Create | python3 -m venv venv | python -m venv venv |
-| Activate | source venv/bin/activate | source venv/Scripts/activate |
+| Create | python3 -m venv .venv | python -m venv .venv |
+| Activate | source .venv/bin/activate | source .venv/Scripts/activate |
 | Install | pip install -r requirements.txt| pip install -r requirements.txt|
 | Deactivate | deactivate | deactivate |
 
@@ -26,3 +26,4 @@ You will find that amonst the different age groups survey participants aging bet
 
 
 Amongst all the different types of games out there we found that Simulation games
+
